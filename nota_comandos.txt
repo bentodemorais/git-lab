@@ -41,3 +41,6 @@ git branch -d <nome_branch>
 
 # rastrea novo branch remoto enviando conteudo
 git push --set-upstream origin sistema-login
+
+# insere comando para 'ignore'
+touch .gitignore
