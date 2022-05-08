@@ -1,0 +1,31 @@
+git status
+
+git add "nome_arquivo"
+    
+	git status
+	
+git commit -m "comentário"
+    
+	git status
+
+git push
+    
+	git remote add origin <https://github.com/bentodemorais/...>
+
+git push
+
+git status
+
+git reflog
+
+git reset --hard <identificação_versão>
+
+git branch
+
+    git branch <nome> exemplo de nome:staging
+	
+	git checkout <nome>
+	
+git pull	
+	
+    git merge <nome>
