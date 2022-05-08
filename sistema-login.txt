@@ -1,0 +1,4 @@
+insere usuário
+insere senha
+validar
+resultado
