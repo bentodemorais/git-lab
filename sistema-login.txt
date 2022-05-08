@@ -2,3 +2,5 @@ insere usuário
 insere senha
 validar
 resultado
+tratativa 1
+tratativa 2
