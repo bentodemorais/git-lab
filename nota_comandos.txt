@@ -29,3 +29,15 @@ git branch
 git pull	
 	
     git merge <nome>
+
+# cria uma nova branch, alternando para ela	
+git checkout -b sistema_login 
+
+# alterar o nome de um branch localmente
+git branch -m "nome-antigo" "novo-nome"
+
+# deletar um branch local
+git branch -d <nome_branch>
+
+# rastrea novo branch remoto enviando conteudo
+git push --set-upstream origin sistema-login
